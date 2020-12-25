@@ -1,0 +1,14 @@
+/home/sky/GAPITA/bin/Debug/netcoreapp2.2/Gapita.deps.json
+/home/sky/GAPITA/bin/Debug/netcoreapp2.2/Gapita.runtimeconfig.json
+/home/sky/GAPITA/bin/Debug/netcoreapp2.2/Gapita.runtimeconfig.dev.json
+/home/sky/GAPITA/bin/Debug/netcoreapp2.2/Gapita.dll
+/home/sky/GAPITA/bin/Debug/netcoreapp2.2/Gapita.pdb
+/home/sky/GAPITA/obj/Debug/netcoreapp2.2/Gapita.csprojAssemblyReference.cache
+/home/sky/GAPITA/obj/Debug/netcoreapp2.2/Gapita.csproj.CoreCompileInputs.cache
+/home/sky/GAPITA/obj/Debug/netcoreapp2.2/Gapita.RazorAssemblyInfo.cache
+/home/sky/GAPITA/obj/Debug/netcoreapp2.2/Gapita.RazorAssemblyInfo.cs
+/home/sky/GAPITA/obj/Debug/netcoreapp2.2/Gapita.AssemblyInfoInputs.cache
+/home/sky/GAPITA/obj/Debug/netcoreapp2.2/Gapita.AssemblyInfo.cs
+/home/sky/GAPITA/obj/Debug/netcoreapp2.2/Gapita.RazorTargetAssemblyInfo.cache
+/home/sky/GAPITA/obj/Debug/netcoreapp2.2/Gapita.dll
+/home/sky/GAPITA/obj/Debug/netcoreapp2.2/Gapita.pdb
